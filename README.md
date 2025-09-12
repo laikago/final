@@ -1,3 +1,32 @@
+任务理解
+需要从提供的四个角点获得装甲板在世界坐标下的位姿
+
+实现思路，
+
+数据处理，
+
+数学原理，
+
+代码框架的解释
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 新建文件夹，，， 
 9月2日 新建ros2节点实现数据读取和发布（先绘制看看是什么）
 使用ai 创建包的命令 ros2 pkg create csv_publisher --build-type ament_cmake --dependencies rclcpp std_msgs
